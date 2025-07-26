@@ -1,0 +1,9 @@
+{
+  "decision": "approved",
+  "amount": null,
+  "justification": "Based on the provided documents, there is no information to deny the claim.  The policy mentions coverage for in-patient treatment, including knee surgery (implied by the list of orthopedic procedures in data_chunk95.txt), and the applicant's age (46) and location (Pune) are not exclusionary factors.",
+  "clauses": [
+    "data4_chunk56.txt",
+    "data_chunk95.txt"
+  ]
+}
